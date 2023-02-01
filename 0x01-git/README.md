@@ -1,0 +1,2 @@
+cd README.md
+clear
