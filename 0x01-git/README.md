@@ -1,2 +1,1 @@
-cd README.md
-clear
+readme updated
